@@ -200,6 +200,12 @@
       "dependencies": {},
       "hash": "49b285af77ab733bb52b75d1a25bf2571a5af3d7"
     },
+    "xyz.staggartcreations.skyboxes": {
+      "version": "file:xyz.staggartcreations.skyboxes",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,

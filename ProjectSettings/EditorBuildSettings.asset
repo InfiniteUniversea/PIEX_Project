@@ -6,10 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Samples/ExtralityLab@DSV/0.2.2/CwC-Starting-Assets/Unit 4/Scenes/Prototype
+      4.unity
+    guid: a4b96ad7a65484fd4a83cb97540eee50
+  - enabled: 0
+    path: Assets/Samples/ExtralityLab@DSV/0.2.2/CwC-Starting-Assets/Unit 3/Scenes/Prototype
+      3.unity
+    guid: dc8c9f3efd746429fa6f9482dc779492
+  - enabled: 0
     path: Assets/Samples/ExtralityLab@DSV/0.2.2/CwC-Starting-Assets/Unit 1/Scenes/Prototype
       2.unity
     guid: 233921bf5ea654b449205a02a7ad9338
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
